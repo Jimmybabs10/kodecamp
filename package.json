@@ -1,0 +1,22 @@
+{
+  "name": "kodecamp",
+  "version": "1.0.0",
+  "description": "backend beginner training on nodejs",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "nodejs",
+    "npm"
+  ],
+  "author": "JH Abiola",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.3.4",
+    "nodemon": "^2.0.16"
+  }
+}
